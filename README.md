@@ -6,7 +6,7 @@ Este proyecto es una implementación de un carrito de compras utilizando **React
 
 ## 📸 Vista previa
 
-![App Screenshot](https://your-screenshot-url.com)
+![App Screenshot](<img width="1269" alt="image" src="https://github.com/user-attachments/assets/ffaba574-5991-4d1a-a754-3f029cb61048" />)
 
 ---
 
