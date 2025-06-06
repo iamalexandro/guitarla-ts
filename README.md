@@ -54,7 +54,8 @@ yarn
 # Ejecutar localmente
 npm run dev
 ```
+---
 
-📚 Créditos
-Este proyecto fue desarrollado como parte del curso:
-👉 React y TypeScript - La Guía Completa Creando +10 Proyectos
+## 📚 Créditos
+- Este proyecto fue desarrollado como parte del curso:
+- 👉 React y TypeScript - La Guía Completa Creando +10 Proyectos
