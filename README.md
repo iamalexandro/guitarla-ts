@@ -1,6 +1,6 @@
 # 🛒 React + TypeScript Shopping Cart
 
-Este proyecto es una implementación de un carrito de compras utilizando **React** y **TypeScript**, desarrollado como parte de un curso en **Udemy**. Está enfocado en el manejo del estado, optimización del renderizado y persistencia de datos.
+Este proyecto es una implementación de un carrito de compras utilizando **React** y **TypeScript**, está enfocado en el manejo del estado, optimización del renderizado y persistencia de datos.
 
 🚀 **[Ver Demo en Netlify](https://guitarla-ts-nico.netlify.app/)**
 
@@ -53,4 +53,8 @@ yarn
 
 # Ejecutar localmente
 npm run dev
+
+📚 Créditos
+Este proyecto fue desarrollado como parte del curso:
+👉 React y TypeScript - La Guía Completa Creando +10 Proyectos
 ```
